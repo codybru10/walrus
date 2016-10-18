@@ -1,0 +1,29 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#cheetah-showing img {
+  width: 650px;
+
+
+}
+#cheetah-showing {
+  display: none;
+}
+
+.clickit {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickit:hover {
+  text-decoration: underline;
